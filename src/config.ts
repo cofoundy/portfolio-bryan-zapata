@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Bryan Miguel Zapata Fajardo",
   title: "Senior SAP Developer & Systems Integrator",
   description: "Portfolio de Bryan Zapata - Ingeniero de Sistemas con 8+ años de experiencia en desarrollo .NET y SAP Business One en Lima, Perú",
-  accentColor: "#64748b",
+  accentColor: "#3B82F6",
   social: {
     email: "bz.dev@outlook.es",
     linkedin: "https://www.linkedin.com/in/bryan-zapata-b44379157",
